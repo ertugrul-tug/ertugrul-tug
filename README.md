@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ahmed_MH_90)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ahmedMHasan) 
+- 💬 Ask me about ...[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ahmed_MH_90)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ertugrul-tug) 
 - 📫 How to reach me: ... [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abu8ammed) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abu8ammed) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14215194) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abu7ammed) 
 - 😄 Pronouns: ...
@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats: 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedMHASAN&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=ertugrul-tug&theme=default&hide_border=true&include_all_commits=true&count_private=true">
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedMHASAN&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrul-tug&theme=default&hide_border=true">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedMHASAN&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-tug&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
     <br/>
-    <img src="https://github-contributor-stats.vercel.app/api?username=ahmedMHASAN&limit=5&theme=flat&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ertugrul-tug&limit=5&theme=flat&combine_all_yearly_contributions=true">
 
 </div>
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies: 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedMHASAN&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ertugrul-tug&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 
